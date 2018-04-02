@@ -21,6 +21,7 @@ For Singleplayer:
 
 General rule:
 * First Player to get 10 points WINS the game.
+* Esc key to go back to Menu at anytime (points will be reset)
 
 ---
 # Built with 
