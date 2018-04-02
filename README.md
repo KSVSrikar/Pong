@@ -44,3 +44,4 @@ Game's ScoreBoard:
 Game's Win condition:
 ![4](https://user-images.githubusercontent.com/35230083/38211460-27dd71e0-36d8-11e8-906f-0b56a4e54bcd.png)
 
+---
