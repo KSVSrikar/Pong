@@ -16,6 +16,6 @@ public class ComputerControl : MonoBehaviour {
 	}
 	void controls(){
 		if(GameObject.FindGameObjectWithTag("Ball"))
-			transform.Translate (0, y1*0.8f, 0);
+			transform.Translate (0, y1*0.7f, 0);
 	}
 }
